@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-![Project GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZ0YW51c3ViNmx4Z3VkbWNtdjZzZXliOHRyeHk2a3RneTNidmdsbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/efH7XxDUwCuIRcaLyD/giphy.gif)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZ0YW51c3ViNmx4Z3VkbWNtdjZzZXliOHRyeHk2a3RneTNidmdsbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/efH7XxDUwCuIRcaLyD/giphy.gif" alt="Project demo" width="400"/>
+</p>
 
 <!--
 **AkmalGofurov/AkmalGofurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
